@@ -7,7 +7,7 @@ from sympy import *
 # (23-10)
 # Very basic initial sizing for the centrifugal impeller
 # Design parameters: output pressure, mass flow rate, outlet height, diameter
-# Outputs: Output temperature T2, omega required
+# Outputs: Output temperature T2, angular velocity, shaft power, axial thrust, head
 
 # Key Assumptions:
 # (1) Isentropic process + ideal gas throughout --> use of isentropic relations
